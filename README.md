@@ -1,4 +1,4 @@
-# Service Tracker – Complaint Management Web Application
+# Public Service Tracker
 
 Service Tracker is a web-based complaint management system designed to help users submit service-related issues and allow administrators to monitor, manage, and resolve those requests efficiently.
 
@@ -98,10 +98,7 @@ This project helps in understanding:
 ## Author
 
 **Shahzad Khan**  
-BCA Student  
-Interested in Web Development, Backend Systems, and Real-World Projects
-
----
+BCA Student
 
 ## License
 
